@@ -69,8 +69,6 @@ BMI = weight / (height * height)
 
 Returns BMI value and category
 
-💼 Why this project is useful (Interview / Portfolio)
-
 This project shows:
 
 How to connect LWC to Apex
